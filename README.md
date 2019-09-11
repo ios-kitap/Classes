@@ -1,2 +1,2 @@
 # Classes
-Swift programlama dilinde sınıf yapıları ve neslen programlama örnekleri.
+Swift programlama dilinde sınıf yapıları ve nesnel programlama örnekleri.
